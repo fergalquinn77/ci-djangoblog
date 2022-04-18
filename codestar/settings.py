@@ -31,7 +31,7 @@ DEBUG = False
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['codestar-fq-django.herokuapp.com','localhost']
 
 # Application definition
 
